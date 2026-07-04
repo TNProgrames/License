@@ -19,6 +19,10 @@
     {
       "deviceId": "1954ADFB-A5F9-4C90-8303-4414AF05E622",
       "expirationDate": "2040-12-7T23:59:59"
+    },
+    {
+      "deviceId": "6D3ABDC9-1A73-4615-9C46-180F75FEE286",
+      "expirationDate": "2040-12-7T23:59:59"
     }
   ]
 }
