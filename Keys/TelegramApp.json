@@ -1,35 +1,7 @@
 {
   "licensedDevices": [
     {
-      "deviceId": "BRW-FJMZE3QABLJ",
-      "expirationDate": "2060-12-31T23:59:59"
-    },
-    {
-      "deviceId": "AAAAAAAA-AAAA-AAAA-AAAA-448A5B28E1D0",
-      "expirationDate": "2027-01-31T23:59:59"
-    },
-    {
-      "deviceId": "55B0AD63-4990-A3A8-E905-F02F74311142",
-      "expirationDate": "2024-12-7T23:59:59"
-    },
-    {
-      "deviceId": "03000200-0400-0500-0006-000700080009",
-      "expirationDate": "2040-12-7T23:59:59"
-    },
-    {
-      "deviceId": "1954ADFB-A5F9-4C90-8303-4414AF05E622",
-      "expirationDate": "2040-12-7T23:59:59"
-    },
-    {
-      "deviceId": "6D3ABDC9-1A73-4615-9C46-180F75FEE286",
-      "expirationDate": "2040-12-7T23:59:59"
-    },
-    {
-      "deviceId": "81A3C79B-040C-43E3-A672-EA099ADA1AF6",
-      "expirationDate": "2040-12-7T23:59:59"
-    },
-    {
-      "deviceId": "30DC331A-9AA5-4DE5-92AD-A95F1DCF76C2",
+      "deviceId": "032B0290-0434-054A-2006-BE0700080009",
       "expirationDate": "2040-12-7T23:59:59"
     }
   ]
